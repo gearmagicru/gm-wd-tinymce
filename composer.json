@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-wd-tinymce",
-    "description": "Site widget \"TinyMCE\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "widget",
-        "tinymce"
-    ],
+    "description": "Website widget \"TinyMCE\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "tinymce"],
     "homepage": "https://apps.gearmagic.ru/component/gm-wd-tinymce",
     "type": "component",
     "license": "MIT",
