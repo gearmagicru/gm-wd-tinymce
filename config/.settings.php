@@ -16,7 +16,7 @@ return [
     'defaultToolbar'     => false, // показывать панель инструментов по умолчанию
     'toolbar_items_size' => 'medium', // размер панели инструментов
     // расширенная проверка элементов
-    'extended_valid_elements' => 'img[class|style|src|border|alt|title|hspace|vspace|width|height|align|loading|longdesc|onmouseover|onmouseout|name]',
+    'extended_valid_elements' => 'img[class|style|src|border|alt|title|hspace|vspace|width|height|align|loading|longdesc|onmouseover|onmouseout|name],i[*],div[*],span[*]',
     // подключаемые плагины
     'plugins' => 'advlist,autolink,lists,link,image,preview,hr,anchor,pagebreak,code,media,nonbreaking,save,table,contextmenu,directionality,textcolor,searchreplace,wordcount,visualblocks,visualchars,paste,fullscreen,paste,link,contextmenu,gmshortcode,gmimage,gmlink',
     // панель инструментов 
